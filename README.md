@@ -5,3 +5,7 @@ Welcome users, this is a iOS AR application that displays a video of a detected 
 # Inspiration 
 
 I got this idea from dream about wearing google glasses and seeing a large billboard with the video being displayed in front of it. After a little research and dedication, I decided to try to make it into reality by creating the next best thing. Using Apple's AR kit, the cover is scanned and the video is shown as in augmented reality. 
+
+# Getting Started 
+
+Important Note: Due to the video and image size for this project, I am only using the Avengers Endgame blu ray cover and the trailer video for this project. Other movies are 
