@@ -14,6 +14,8 @@ I got this idea from dream about wearing google glasses and seeing a large billb
 
 Important Note: Due to the video and image size for this project, I am only using the Avengers Endgame blu ray cover and the trailer video for this project. Other movies can be included using the same technique but would require their own image and video. 
 
+Once the app is opened, the camera will start searching for the image stored in it's asset's file (image further down this readme). Once the image is found, a plane will appear above the image along with a mp4 video of the trailer for Avengers Endgame. I have a great time making this app and the same process can be used for various other movies. 
+
 ### Prerequisites 
 
 This AR project can only be viewed on an actual iPhone and will not work on the simulator. 
